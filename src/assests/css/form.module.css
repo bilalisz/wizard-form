@@ -1,0 +1,16 @@
+.formContainer {
+  width: 100%;
+  height: 20%;
+
+  display: flex;
+  justify-content: center;
+}
+.formWrapper {
+  width: auto;
+  height: auto;
+}
+.navigationBtnWrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff8a;
+}
